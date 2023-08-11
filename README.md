@@ -5,6 +5,6 @@ Natural disasters not only disturb the human ecological system but also destroy 
 ### Homepage
 ![Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai Home]( https://github.com/taniyaabbineni14/Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai/blob/main/Img/Home.png)
 ### Introduction page
-![Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai intro](https://github.com/taniyaabbineni14/Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai/blob/main/Img/intro.png)
+![Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai Intro](https://github.com/taniyaabbineni14/Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai/blob/main/Img/Intro.png)
 ### Upload Page
 ![Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai Upload](https://github.com/taniyaabbineni14/Natural-Disasters-Intensity-Analysis-And-Classification-Using-Ai/blob/main/Img/Upload.png)
